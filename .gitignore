@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Test binaries
+*.test
+*.out
+
+# OS and Editor files
+.vscode/
+.idea/
+.DS_Store
+
+# (Optional) Ignore the config file if it contains real secrets later
+# config.yaml

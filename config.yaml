@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+routes:
+  - path: /api/v1/users
+    backends:
+      - [https://user-service-instance-1.internal](https://user-service-instance-1.internal)
+      - [https://user-service-instance-2.internal](https://user-service-instance-2.internal)
