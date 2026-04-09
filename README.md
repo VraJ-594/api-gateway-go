@@ -1,4 +1,4 @@
-# High-Performance API Gateway in Go
+# API Gateway in Go
 
 A lightweight, concurrent API Gateway built from scratch in Go. This project implements core reverse proxy mechanics wrapped in a robust middleware pipeline, designed to manage, secure, and distribute HTTP traffic to backend microservices.
 
